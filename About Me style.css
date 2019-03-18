@@ -1,0 +1,77 @@
+header{
+    text-align: center;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow:  5px whitesmoke;
+}
+h1{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    align-content: center;
+    color: teal;
+    text-shadow:  5px white;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+h3{
+    color: teal;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+video{
+   
+    border: black solid 5px;
+    color: white;  
+}
+blockquote{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: teal;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+body{
+    text-align: center;
+    background-image: url("./fall.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    color:teal;
+    font-family: 'Permanent Marker', cursive;
+}
+li{
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    transition: .5s;
+    background: gray;
+    color: teal;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+u{
+    color: black;
+}
+
